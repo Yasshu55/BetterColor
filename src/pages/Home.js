@@ -88,7 +88,7 @@ export default function Home() {
         <div className="footer">
           <div className="footside">
             <h1 className="footer_name">
-              <a title="" href="https://good.com">
+              <a title="" href= "#">
                 BetterColor
               </a>
             </h1>
